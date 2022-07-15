@@ -30,7 +30,7 @@ twitter_username: silver911r
 github_username:  silver911r
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: Hacker
 plugins:
   - jekyll-feed
 
