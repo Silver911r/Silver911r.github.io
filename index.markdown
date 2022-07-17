@@ -6,4 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: hacking, building, coding
 ---
+
+
+    {{ "Hello World!" | downcase }}
+    {{ page.my_number }}
