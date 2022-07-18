@@ -14,5 +14,18 @@ body {
     max-width: 72rem;
     padding-right: 2rem;
     padding-left: 2rem;
+    padding-bottom: 2rem;
     margin: 0 auto;
+}
+
+h1 {
+    color: #2bbc8a;
+}
+
+a {
+    color:#c9cacc;
+}
+
+a:visited {
+    color:#c9cacc;
 }
